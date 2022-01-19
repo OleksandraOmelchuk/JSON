@@ -1,0 +1,41 @@
+{
+  "TV_series": "Friends",
+  "favourite_dish": {
+    "soup": [
+      "chiсken_soup",
+      "ramen",
+      "pho_bo"
+    ],
+    "main_dish": [
+      "steak",
+      "spaghetti",
+      "fried_rice"
+    ],
+    "dessert": [
+      "cheesecake",
+      "tiramisu"
+    ]
+  },
+  "favorite_country": [
+    {
+      "country": "Spain",
+      "city": "Barcelona"
+    },
+    {
+      "country": "France",
+      "city": "Paris"
+    },
+    {
+      "country": "Thailand",
+      "city": [
+        "Chiang Mai",
+        "Phuket",
+        "Bangkok"
+      ]
+    },
+    {
+      "country": "Japan",
+      "city": "Tokyo"
+    }
+  ]
+}
