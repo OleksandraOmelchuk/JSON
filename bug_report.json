@@ -1,1 +1,17 @@
-
+{
+  "id": 1,
+  "summary": "HTML code appears after the user uploads a photo larger than 1 KB",
+  "environment": "Windows 10 (64-bit), GoogleChrome v.97.0.4692.71 (64-bit)",
+  "priority": "blocker",
+  "description": [
+    {
+    "stp": [
+      "1. Go to the registration form",
+      "2. Click on the “Click to upload a photo” frame",
+      "3. Upload a photo larger than 1 KB"
+    ],
+    "er": "Photo uploaded",
+    "ar": "HTML code appears after the user uploads a photo larger than 1 KB"
+    }
+  ]
+}
